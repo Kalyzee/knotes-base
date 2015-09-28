@@ -1,0 +1,25 @@
+{
+  "name": "Knotes-base",
+  "description": "Take notes from videos",
+  "dependencies": {
+    "font-awesome": "~4.4.0",
+    "jquery": "~1.11.3",
+    "swfobject": "2.2"
+  },
+  "keywords": [
+    "videos",
+    "notes",
+    "kalyzee"
+  ],
+  "authors": [
+    "Ludovic Bouguerra <ludovic.bouguerra@kalyzee.com>"
+  ],
+  "license": "GPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
