@@ -12,7 +12,11 @@
     "kalyzee"
   ],
   "authors": [
-    "Ludovic Bouguerra <ludovic.bouguerra@kalyzee.com>"
+    "Stephane Barbati  <stephane.barbati@kalyzee.com>",
+    "Ludovic Bouguerra <ludovic.bouguerra@kalyzee.com>",
+    "Anthony Gross     <anthony.gross@kalyzee.com>",
+    "Guillaume Laurie  <guillaume.laurie34@gmail.com>",
+    "Christian Surace  <christian.surace@kalyzee.com>"
   ],
   "license": "GPL",
   "ignore": [
